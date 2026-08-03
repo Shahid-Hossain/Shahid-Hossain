@@ -62,18 +62,20 @@ Earlier, 3.5 years at TCS as a Business Analyst and Systems Engineer, delivering
 
 ## Education
 
-**MS Marketing (STEM)**, McCombs School of Business, UT Austin
-**MBA**, IIT Madras
-**BE Electronics and Instrumentation**, Heritage Institute of Technology
+- **MS Marketing (STEM)**, McCombs School of Business, UT Austin
+- **MBA**, IIT Madras
+- **BE Electronics and Instrumentation**, Heritage Institute of Technology
 
 ---
 
 ## Tools
 
-Product: Jira, Azure DevOps, Figma, Confluence
-Data: SQL and PL/SQL, R, Python, Tableau, Google Analytics, Advanced Excel
-AI: Claude, ChatGPT, Colab
+- **Product:** Jira, Azure DevOps, Figma, Confluence
+- **Data:** SQL and PL/SQL, R, Python, Tableau, Google Analytics, Advanced Excel
+- **AI:** Claude, ChatGPT, Colab
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/shaikh-shahid-hossain/
+)<img width="359" height="21" alt="image" src="https://github.com/user-attachments/assets/46d8c6d1-b458-4ca2-a2ea-10548db51daf" />
+)
