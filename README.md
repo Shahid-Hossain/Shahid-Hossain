@@ -76,6 +76,6 @@ Earlier, 3.5 years at TCS as a Business Analyst and Systems Engineer, delivering
 
 ---
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/shaikh-shahid-hossain/
-)<img width="359" height="21" alt="image" src="https://github.com/user-attachments/assets/46d8c6d1-b458-4ca2-a2ea-10548db51daf" />
-)
+https://www.linkedin.com/in/shaikh-shahid-hossain/
+<img width="359" height="21" alt="image" src="https://github.com/user-attachments/assets/acb85290-b7dc-48da-9c35-c6dc9f08419e" />
+
