@@ -65,9 +65,10 @@ Full pipeline, methodology writeup, and a synthetic dataset so the code runs for
 [Repository](https://github.com/Shahid-Hossain/Capstone-Aldi-Shopper-Segmentation)
 
 ---
-- **Sachin vs Kohli: Era-Adjusted ODI Analysis**: compares Tendulkar and Kohli against top-order peers in the same matches across 100K+ ODI innings, with bowling-strength adjustment and bootstrap confidence intervals (Python). [Repo](https://github.com/Shahid-Hossain/ODI-Era-Adjusted-Batting-Analysis)
+- **Sachin vs Kohli: Era-Adjusted ODI Analysis**: compares Tendulkar and Kohli against top-order peers in the same matches across 100K+ ODI innings, with bowling-strength adjustment and bootstrap confidence intervals (Python).
+-  [Repo](https://github.com/Shahid-Hossain/ODI-Era-Adjusted-Batting-Analysis)
 
-- 
+
 ## Background
 
 **Product Owner — American Technology Consulting** (Aug 2026 – present)
