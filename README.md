@@ -92,8 +92,8 @@ Business Analyst and Systems Engineer, delivering enterprise systems for global 
 
 ## Education
 
-**MS in Marketing Analytics (STEM)**, McCombs School of Business, UT Austin
-**MBA**, IIT Madras
+**MS in Marketing Analytics (STEM)**, McCombs School of Business, UT Austin |
+**MBA**, IIT Madras |
 **BE Electronics and Instrumentation**, Heritage Institute of Technology
 
 ---
