@@ -98,16 +98,15 @@ Business Analyst and Systems Engineer, delivering enterprise systems for global 
 
 ---
 
+
 ## Certifications
 
-OpenAI Academy — Applied AI Foundations
-OpenAI Academy — Agents and Workflows
-Anthropic — AI Fluency: Framework and Foundations
-Google Analytics — GA4 Data and Reports
-
----
+- OpenAI Academy — Applied AI Foundations
+- OpenAI Academy — Agents and Workflows
+- Anthropic — AI Fluency: Framework and Foundations
+- Google Analytics — GA4 Data and Reports
 
 ## Tools
 
-**Product:** Jira, Confluence, Azure DevOps, Figma, MS Visio
-**Data:**
+- **Product:** Jira, Confluence, Azure DevOps, Figma, MS Visio
+- **Data:** SQL and PL/SQL, R, Python, Tableau, Google Analytics, Advanced Excel
